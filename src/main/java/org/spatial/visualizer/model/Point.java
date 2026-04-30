@@ -1,3 +1,5 @@
+package org.spatial.visualizer.model;
+
 import processing.core.PApplet;
 
 public record Point(float x, float y) implements SpatialObject {

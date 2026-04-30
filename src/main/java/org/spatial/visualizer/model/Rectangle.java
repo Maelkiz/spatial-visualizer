@@ -1,3 +1,5 @@
+package org.spatial.visualizer.model;
+
 import java.util.function.Supplier;
 import processing.core.PApplet;
 

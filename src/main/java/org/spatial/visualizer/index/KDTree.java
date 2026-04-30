@@ -1,4 +1,7 @@
+package org.spatial.visualizer.index;
+
 import processing.core.PApplet;
+import org.spatial.visualizer.model.SpatialObject;
 
 public class KDTree<T extends SpatialObject> implements SpatialIndex<T> {
     private Node root;

@@ -1,7 +1,11 @@
+package org.spatial.visualizer.index;
+
 import java.util.ArrayList;
 import java.util.List;
 
 import processing.core.PApplet;
+import org.spatial.visualizer.model.SpatialObject;
+import org.spatial.visualizer.model.Rectangle;
 
 public class RTree<T extends SpatialObject> implements SpatialIndex<T> {
     private static final int MAX_ENTRIES = 4;

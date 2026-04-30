@@ -1,11 +1,16 @@
+package org.spatial.visualizer.app;
+
 import processing.core.PApplet;
+import org.spatial.visualizer.index.*;
+import org.spatial.visualizer.model.*;
+import org.spatial.visualizer.util.Util;
 
 public class App extends PApplet {
     private SpatialIndex<SpatialObject> spatialIndex;
     private int numObjects = 2500;
 
     public static void main(String[] args) {
-        PApplet.main("App");
+        PApplet.main("org.spatial.visualizer.app.App");
     }
 
     @Override

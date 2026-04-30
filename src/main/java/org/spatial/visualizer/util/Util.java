@@ -1,3 +1,5 @@
+package org.spatial.visualizer.util;
+
 import java.io.File;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
