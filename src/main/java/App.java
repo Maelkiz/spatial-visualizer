@@ -1,11 +1,11 @@
 import processing.core.PApplet;
 
-public class SpatialIndexVisualizer extends PApplet {
+public class App extends PApplet {
     private SpatialIndex<SpatialObject> spatialIndex;
     private int numObjects = 2500;
 
     public static void main(String[] args) {
-        PApplet.main("SpatialIndexVisualizer");
+        PApplet.main("App");
     }
 
     @Override
