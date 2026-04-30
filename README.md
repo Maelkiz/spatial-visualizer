@@ -72,3 +72,15 @@ mvn clean
 ```
 
 ---
+
+## Controls / Keybindings
+
+- **1**: Switch to `QuadTree` and rebuild the index.
+- **2**: Switch to `KDTree` and rebuild the index.
+- **3**: Switch to `RTree` and rebuild the index.
+- **s**: Save the current frame to the `output/` directory as a PNG (`<IndexName>-####.png`).
+
+Notes:
+
+- The visualizer opens a Processing window; press the keys while the window is focused.
+- Ensure an X11/GUI display is available when running (or use X forwarding).
