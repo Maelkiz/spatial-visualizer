@@ -21,3 +21,6 @@
 
 # Local OS files
 .DS_Store
+
+# Generated files
+/output/
