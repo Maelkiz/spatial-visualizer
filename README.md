@@ -12,7 +12,7 @@ algorithms including Quadtree, K-D tree, and R-tree data structures.
 
 ---
 
-## Example Visualizations
+## Visualizations
 
 ### Quadtree
 ![Quadtree](./output/QuadTree-0001.png)
