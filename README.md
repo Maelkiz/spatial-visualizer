@@ -1,6 +1,6 @@
-# Spatial Index Visualizer
+# Spatial Visualizer
 
-> A visualization of spatial indexing data structures using the Processing libraries.
+> Various visualizations of spatial indexing data structures using the Processing libraries.
 
 ---
 
